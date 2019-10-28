@@ -1,0 +1,1 @@
+Note: Sometimes the program immediately exits with error code 1. This does not effect the program in any way as it will run fine most of the time. I have not yet found a solution to this error 
